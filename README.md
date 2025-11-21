@@ -8,9 +8,9 @@
 
 点击下面链接即可在 Loon 中直接导入配置：
 
-[导入默认配置](loon://import?url=https://raw.githubusercontent.com/用户名/loon-config/main/configs/default.lcf)
+[导入默认配置](loon://import?url=https://raw.githubusercontent.com/2Vrkswz/Loon-Config/refs/heads/main/configs/default.lcf)
 
-[导入高级配置](loon://import?url=https://raw.githubusercontent.com/用户名/loon-config/main/configs/advanced.lcf)
+[导入高级配置](loon://import?url=https://raw.githubusercontent.com/2Vrkswz/Loon-Config/refs/heads/main/configs/2025_11_21_17_04_50_465.lcf)
 
 > ⚠️ 注意：
 > - 仅在安装 Loon 的 iOS / macOS / iPadOS 设备上有效  
